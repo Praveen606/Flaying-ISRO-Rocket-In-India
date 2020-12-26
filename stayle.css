@@ -1,0 +1,28 @@
+html,body{
+    height: 100%;
+    width:100%;
+
+}
+div{
+    background-image: url('img.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+img{
+position:absolute;
+left: 50%;
+transform: translate(-50%,-50%);
+top: 70%;
+animation: fly 5s 5s ease-in-out ;
+}
+@keyframes fly{
+    0%
+    {
+
+    }
+    50%{
+        transform: translate(-50%,-100vh);
+    }
+}
