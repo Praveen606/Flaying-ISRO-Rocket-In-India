@@ -15,7 +15,7 @@ position:absolute;
 left: 50%;
 transform: translate(-50%,-50%);
 top: 70%;
-animation: fly 5s 500ms ease-in-out infanite;
+animation: fly 5s 500ms ease-in-out infinite;
 }
 @keyframes fly{
     0%
