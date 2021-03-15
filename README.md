@@ -1,2 +1,2 @@
-# Flaying-ISRO-Rocket-In-India
-A Flaying ISRO Rocket Animation With HTML And CSS.
+# Flying-ISRO-Rocket-In-India
+A Flying ISRO Rocket Animation With HTML And CSS.
